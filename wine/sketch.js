@@ -7,7 +7,7 @@ let pointsMin;
 let pointsMax;
 
 function preload() {
-  dataObject = loadJSON("https://genxp-2411.github.io/assets/datasets/Winemag/Winemag.json");
+  dataObject = loadJSON("https://genxp-2506.github.io/assets/datasets/Winemag/Winemag.json");
 }
 
 function setup() {

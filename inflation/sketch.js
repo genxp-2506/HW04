@@ -3,7 +3,7 @@ let data;
 
 function preload() {
   dataObject = loadJSON(
-    "https://genxp-2411.github.io/assets/datasets/Global-Inflation/Global-Inflation.json"
+    "https://genxp-2506.github.io/assets/datasets/Global-Inflation/Global-Inflation.json"
   );
 }
 
